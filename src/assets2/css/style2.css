@@ -40,6 +40,10 @@ link {
   background-color : #107BDE !important;
 }
 
+.icon {
+  color: #107BDE !important;
+}
+
 a.bg-primary:hover,a.bg-primary:focus,button.bg-primary:hover,button.bg-primary:focus{background-color:#0071f4 !important}.bg-secondary{background-color:#e8f2ff !important}a.bg-secondary:hover,a.bg-secondary:focus,button.bg-secondary:hover,button.bg-secondary:focus{background-color:#b5d5ff !important}.bg-success{background-color:#00c759 !important}a.bg-success:hover,a.bg-success:focus,button.bg-success:hover,button.bg-success:focus{background-color:#009442 !important}.bg-info{background-color:#73e9ef !important}a.bg-info:hover,a.bg-info:focus,button.bg-info:hover,button.bg-info:focus{background-color:#45e2ea !important}.bg-warning{background-color:#ff3b00 !important}a.bg-warning:hover,a.bg-warning:focus,button.bg-warning:hover,button.bg-warning:focus{background-color:#cc2f00 !important}.bg-danger{background-color:#f03 !important}a.bg-danger:hover,a.bg-danger:focus,button.bg-danger:hover,button.bg-danger:focus{background-color:#cc0029 !important}.bg-light{background-color:#e9ecef !important}a.bg-light:hover,a.bg-light:focus,button.bg-light:hover,button.bg-light:focus{background-color:#cbd3da !important}.bg-dark{background-color:#343a40 !important}a.bg-dark:hover,a.bg-dark:focus,button.bg-dark:hover,button.bg-dark:focus{background-color:#1d2124 !important}
 .bg-tertiary{
   background-color:#192b3f !important
